@@ -1,0 +1,10 @@
+name: gasconsumption
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: Data Management Software
+config:
+  pulumi:tags:
+    value:
+      pulumi:template: ""
