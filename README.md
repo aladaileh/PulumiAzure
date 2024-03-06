@@ -18,4 +18,4 @@ Before you begin, ensure you have the following installed:
 First, clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/aladaileh/PulumiaZure.git
+git clone https://github.com/aladaileh/PulumiAzure.git
